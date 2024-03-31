@@ -173,7 +173,7 @@ logo=(f"""\033[1;37m
  \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mAuthor  : YASINE
  \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mGithub  : YASINE
  \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mService : FREE
- \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mVersion :1.6
+ \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mVersion :1.7
  \033[1;32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  \033[1;32m[\033[1;37m+\033[1;32m] \033[1;37mCloning ids Saved in YASINE folder
  \033[1;32m~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~""")
@@ -478,7 +478,7 @@ def api1(ids,names,passlist):
                 dimensions = __iam_genius.split('|')[2]
                 ffb=random.choice(fbks)
                 dvlk = random.choice(usr)
-                ua_string = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,318)) +";FBBV/"+str(random.randint(11111111,77777777))+"[FBAN/;FBAV/A1XDL5U4;FBBV/532945396;FBAN/FBAN;FBAV/A1XDL5U4;FBBV/532945396;FBDM//*{density=3.0,width=720,height=1920};FBLC/ja_JP;FBRV/939508561;FBCR/Realme;FBMF/Xiaomi;FBBD/ZTE;FBPN/com.facebook.katana;FBDV/Xiaomi_Mi_Mix_10;FBSV/13;FBOP/8;FBCA/armeabi;FBSS/11;]"+"[FB4A/;FBAV/4Q095MQG;FBBV/883092872;FBAN/FB4A;FBAV/4Q095MQG;FBBV/883092872;FBDM//*{density=2.5,width=1080,height=1920};FBLC/zh_CN;FBRV/992101268;FBCR/OPPO;FBMF/Xiaomi;FBBD/Oppo;FBPN/com.facebook.katana;FBDV/Vivo_V21;FBSV/17;FBOP/4;FBCA/arm64-v8a;FBSS/;]"+"[FB4A/;FBAV/YZWSES93;FBBV/158363088;FBAN/FB4A;FBAV/YZWSES93;FBBV/158363088;FBDM//*{density=3.0,width=2560,height=1920};FBLC/zh_CN;FBRV/268524341;FBCR/LG;FBMF/Apple;FBBD/Lenovo;FBPN/com.facebook.katana;FBDV/OnePlus_Nord_N900;FBSV/15;FBOP/7;FBCA/arm64-v8a;FBSS/16;]"
+                ua_string = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,318)) +";FBBV/"+str(random.randint(11111111,77777777))+"[FBAN/FB4A;FBAV/175.53.17.43;FBBV/82768823;FBDM/{density=1.8,width=1281,height=1330};FBLC/en_US;FBRV/54991806;FBCR/null;FBMF/lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LGE;FBSV/6.8;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
                 li = ['28','29','210']
                 li2 = random.choice(li)
                 j1 = ''.join(random.choice(digits) for _ in range(2))
